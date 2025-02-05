@@ -14,7 +14,7 @@ Welcome to the chaos of mine.
 
 ## 📬 Feel free to connect with me on:
 - [LinkedIn](https://www.cachemonet.com/) (I actually don't have one)
-= [Steam](https://steamcommunity.com/id/7656119804883/)
+- [Steam](https://steamcommunity.com/id/7656119804883/)
 
 ## 🛠️ Technologies & Tools
 - **Languages:** C (fav), Python, C++, JavaScript
