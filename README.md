@@ -3,8 +3,9 @@
 Welcome to the chaos of mine.
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on AI and coding.
-- 🌱 I'm learning more about **machine learning**, **Python**, and **software development**.
+- 🔎 I am always learning! Failing and trying over and over again is the essence of progress.
+- 🔭 I’m currently working on AI and automation (I really love scripting and aliases).
+- 🌱 I'm learning more about **machine learning**, **Python** and **software development**.
 - 💬 Ask me about **Python**, **C++**, and **deep learning**.
 - 📫 How to reach me: [marcos_davi317@hotmail.com](mailto:marcos_davi317@hotmail.com).
 
