@@ -1,22 +1,23 @@
 # Hi there, I'm Marcos! 👋
 
-Welcome to my GitHub profile.
+Welcome to the chaos of mine.
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on exciting projects in AI and coding.
+- 🔭 I’m currently working on AI and coding.
 - 🌱 I'm learning more about **machine learning**, **Python**, and **software development**.
 - 💬 Ask me about **Python**, **C++**, and **deep learning**.
-- 📫 How to reach me: [marcos@example.com](mailto:marcos@example.com).
+- 📫 How to reach me: [marcos_davi317@hotmail.com](mailto:marcos_davi317@hotmail.com).
 
 ## 🚀 My Projects
-- [Project 1](https://github.com/marcos/project1) - Description of Project 1.
-- [Project 2](https://github.com/marcos/project2) - Description of Project 2.
+- [TCC Helper](https://github.com/marcos/project1) - Python-based AI app for local research.
+- [Daemon C](https://github.com/marcos/project2) - Watch files and/or directories.
 
 ## 📬 Feel free to connect with me on:
-- [LinkedIn](https://www.linkedin.com/in/marcos)
-- [Twitter](https://twitter.com/marcos)
+- [LinkedIn](https://www.cachemonet.com/) (I actually don't have one)
+= [Steam](https://steamcommunity.com/id/7656119804883/)
 
 ## 🛠️ Technologies & Tools
-- **Languages:** Python, C++, JavaScript
-- **Tools:** Git, Docker, VSCode, Jupyter
+- **Languages:** C (fav), Python, C++, JavaScript
+- **Tools:** Git, VSCode, Ollama, Terminal (my beloved)
+- **Operational Systems:** Linux (I use Arch btw), Windows 10
 
