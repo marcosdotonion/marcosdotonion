@@ -4,7 +4,7 @@ Welcome to the chaos of mine.
 
 ## 👨‍💻 About Me
 - 🔎 I am always learning! Failing and trying over and over again is the essence of progress.
-- **>_** CLI main.
+- **[>_]** CLI main.
 - 🔭 I’m currently working on AI and automation (I really love scripting and aliases).
 - 🌱 I'm learning more about **machine learning**, **Python** and **software development**.
 - 💬 My interests are **deep learning**, **C and ASM coding**, **SQL**, **Vulkan**
