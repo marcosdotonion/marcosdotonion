@@ -13,7 +13,7 @@ Welcome to the chaos of mine.
 ## 🚀 My Projects
 - [TCC Helper](https://github.com/marcosdotonion/tcc-helper) - Python-based AI app for local research.
 - [Daemon C](https://github.com/marcosdotonion/daemonc) - Watch files and/or directories.
-- [Secret] - Hmm...?
+- [hank-AI](https://github.com/marcosdotonion/hank-AI) - The most powerful (and rude) AI that ever existed. Survived being erased.
 
 ## 📬 Feel free to connect with me on:
 - [LinkedIn](https://www.cachemonet.com/) (W.I.P)
